@@ -7,5 +7,5 @@
     "servers": [
         "https://mirrors.thpatch.net/TeamEclecticAnthologists/"
     ],
-    "title": "Team Eclectic Anthologists' Patches",
+    "title": "Team Eclectic Anthologists' Patches"
 }
