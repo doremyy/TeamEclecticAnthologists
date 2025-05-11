@@ -5,7 +5,7 @@
         "th20-noAI": "asset enhancement patch for TH20",
     },
     "servers": [
-        "https://mirrors.thpatch.net/TeamEclecticAnthologists/"
+        "https://raw.githubusercontent.com/doremyy/TeamEclecticAnthologists/main"
     ],
     "title": "Patches by Team Eclectic Anthologists"
 }
