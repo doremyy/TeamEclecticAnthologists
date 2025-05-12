@@ -2,7 +2,7 @@
     "contact": "@iesua on Discord",
     "id": "TeamEclecticAnthologists",
     "patches": {
-        "th20-noAI": "asset enhancement patch for TH20",
+        "th20-betterAssets": "asset enhancement patch for TH20 (namely, no AI!)",
     },
     "servers": [
         "https://raw.githubusercontent.com/doremyy/TeamEclecticAnthologists/main"
