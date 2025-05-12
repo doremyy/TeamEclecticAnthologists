@@ -11,6 +11,7 @@
 	"th20/front/logo/st01logo.png": 1173381809,
 	"th20/front/logo/st02logo.png": 4158981415,
 	"th20/front/logo/st03logo.png": 3423127551,
+	"th20/title/title_pl00c.png": 1049216762,
 	"th20/title/title_pl01c.png": 303260794,
 	"th20/loading/sig1280.png": 2835888346,
 	"th20/stgenm/stage01/cardbg0.png": 3635074696,
