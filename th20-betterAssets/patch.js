@@ -3,8 +3,8 @@
     "servers": [
         "https://raw.githubusercontent.com/doremyy/TeamEclecticAnthologists/main/th20-betterAssets/"
     ],
-    "title": "asset enhancement patch for TH20 (namely, no AI!)",
+    "title": "asset replacement and enhancement patch for TH20",
     "dependencies": [
-        "thpatch/lang_en"
+        "nmlgc/base_tsa"
     ]
 }
