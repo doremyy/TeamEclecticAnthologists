@@ -13,5 +13,14 @@
 	"th20/stgenm/stage01/cardbg0.png": 3635074696,
 	"th20/stgenm/stage03/cdbg03a00.png": 2307152424,
 	"th20/stgenm/stage03/cdbg03b.png": 4179643236,
+	"th20/stgenm/stage04/cdbg04a.png": 3422567257,
+	"th20/stgenm/stage04/cdbg04b.png": 2630299256,
+	"th20/stgenm/stage05/cdbg05a00.png": 2497751140,
+	"th20/stgenm/stage05/cdbg05b00.png": 2425922399,
+	"th20/stgenm/stage06/cdbg06a00.png": 4191235043,
+	"th20/stgenm/stage06/cdbg06b00.png": 3476723376,
+	"th20/stgenm/stage06/cdbg06c00.png": 3630751680,
+	"th20/stgenm/stage07/cdbg07a00.png": 4128339679,
+	"th20/stgenm/stage07/cdbg07b00.png": 1919461929,
 	"th20/title/title_bk00.png": 2800221905
 }
